@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/pendrago54" target="blank"><img src="https://img.shields.io/twitter/follow/pendrago54?logo=twitter&style=for-the-badge" alt="Andrew Richard Twitter" /></a> </p>
 
-- I’m an Expert at **Vue.js, Laravel, Nuxt.js, Node and PHP**
+- I’m an Expert at **React.js, Vue.js, Laravel, Next.js Nuxt.js, Node and PHP**
 
-- 🌱 I’m currently learning **Web3 Technology and React**
+- 🌱 I’m currently improving my **React** skills
 
 - 👯 I’m looking to collaborate on **Fullstack's Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/andrewbenrichard](github.com/andrewbenrichard)
-
+<!-- - 👨‍💻 All of my projects are available at [github.com/andrewbenrichard](github.com/andrewbenrichard)
+ -->
 - 💬 Ask me about **React, Vue, Node, Laravel & Android Development**
 
 - 📫 How to reach me **andrewbenrichard@gmail.com**
