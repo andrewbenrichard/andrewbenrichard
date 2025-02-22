@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pendrago54" target="blank"><img src="https://img.shields.io/twitter/follow/pendrago54?logo=twitter&style=for-the-badge" alt="Andrew Richard Twitter" /></a> </p>
 
-- I’m an Expert at **Flutter app development, Vue.js, Ember.js, Laravel, Next.js Nuxt.js, Node and PHP**
+- I’m an Expert at **Flutter app development, Vue.js, Ember.js, Laravel, Next.js Nuxt.js, Node and Python**
 
 - 🌱 I’m currently improving my **React and Python** skills
 
